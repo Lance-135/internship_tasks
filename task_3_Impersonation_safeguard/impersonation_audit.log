@@ -1,0 +1,46 @@
+2025-09-22 22:44:26,994 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,033 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,034 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,035 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,037 - INFO - Impersonation log: {'actor_id': 'admin1', 'target_id': 'user1', 'status': 'SUCCESS', 'message': 'Impersonation started for user1', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 37936)}
+2025-09-22 22:44:27,038 - INFO - Impersonation ended for session session_1758560367.037922, target user1
+2025-09-22 22:44:27,039 - INFO - Impersonation log: {'actor_id': None, 'target_id': 'user1', 'status': 'ENDED', 'message': 'Session session_1758560367.037922 ended', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 39808)}
+2025-09-22 22:44:27,042 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,043 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,044 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,045 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,046 - INFO - Impersonation log: {'actor_id': 'support1', 'target_id': 'user1', 'status': 'SUCCESS', 'message': 'Impersonation started for user1', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 46595)}
+2025-09-22 22:44:27,049 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,050 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,051 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,052 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,053 - INFO - Impersonation log: {'actor_id': 'user1', 'target_id': 'user2', 'status': 'FAILED', 'message': 'Unauthorized: Insufficient privileges or invalid target.', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 53600)}
+2025-09-22 22:44:27,055 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,057 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,058 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,059 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,060 - INFO - Impersonation log: {'actor_id': 'admin1', 'target_id': 'nonexistent', 'status': 'FAILED', 'message': 'Unauthorized: Insufficient privileges or invalid target.', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 60358)}
+2025-09-22 22:44:27,062 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,063 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,064 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,065 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,067 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,068 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,069 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,070 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,071 - INFO - Impersonation log: {'actor_id': 'admin1', 'target_id': 'user1', 'status': 'SUCCESS', 'message': 'Impersonation started for user1', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 71178)}
+2025-09-22 22:44:27,073 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,074 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,074 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,075 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,076 - INFO - Impersonation log: {'actor_id': 'user1', 'target_id': 'user2', 'status': 'FAILED', 'message': 'Unauthorized: Insufficient privileges or invalid target.', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 76948)}
+2025-09-22 22:44:27,080 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,081 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,082 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,083 - INFO - Added user: user2 with role: user
+2025-09-22 22:44:27,084 - INFO - Impersonation log: {'actor_id': 'admin1', 'target_id': 'user1', 'status': 'SUCCESS', 'message': 'Impersonation started for user1', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 84843)}
+2025-09-22 22:44:27,085 - INFO - Impersonation log: {'actor_id': 'support1', 'target_id': 'user2', 'status': 'SUCCESS', 'message': 'Impersonation started for user2', 'timestamp': datetime.datetime(2025, 9, 22, 22, 44, 27, 85856)}
+2025-09-22 22:44:27,087 - INFO - Added user: admin1 with role: admin
+2025-09-22 22:44:27,088 - INFO - Added user: support1 with role: support
+2025-09-22 22:44:27,089 - INFO - Added user: user1 with role: user
+2025-09-22 22:44:27,090 - INFO - Added user: user2 with role: user
